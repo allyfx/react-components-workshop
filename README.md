@@ -28,7 +28,10 @@ Este repositório contém o código base para que você possa acompanhar a ofici
   ```
 
 ## Onde eu encontro o código da aula?
-Assim que a aula finalizar, essa instrução será atualizada.
+O código da aula está disponível na branch `aulacompleta`, para acessar utilize o comando abaixo:</br>
+  ```
+    git checkout aulacompleta
+  ```
 
 ## Quais tecnologias foram usadas nesse projeto?
 - React
